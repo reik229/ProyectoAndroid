@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProyectoAndroid">
         <activity
+            android:name=".pantalla2"
+            android:exported="false" />
+        <activity
+            android:name=".pantalla_2"
+            android:exported="false" />
+        <activity
             android:name=".otrapantalla"
             android:exported="false" />
         <activity
